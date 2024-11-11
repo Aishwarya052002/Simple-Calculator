@@ -8,6 +8,8 @@ Introduction:
   This project leverages HTML, CSS and JavaScript to create an 
   interactive web-based tool that can handle mathematical 
   expression and provide real-time results.
+
+  
 Objectives:
   ▪ Develop a functional calculator: To create a web-based 
   calculator that performs basic arithmetic operations 
